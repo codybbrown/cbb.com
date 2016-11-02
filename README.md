@@ -1,5 +1,6 @@
 # cbb.com
 personal website
+www.codybbrown.com
 
 This site will eventually replace my current personal site as my web development skill grows.  
 
